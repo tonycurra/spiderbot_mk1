@@ -7,7 +7,8 @@ Robotic spider prototype
 
 ## List of materials
 To actuate, use 
-- 16x servo motors "MG90S micro servo"
+- [Arduino Nano 33 BLE sense REV 2](https://docs.arduino.cc/hardware/nano-33-ble-sense-rev2/) - or any other microcontroller
+- 16x servo motors "MG90S micro servo", here's a [guide](https://dronebotworkshop.com/esp32-servo/)
 - 1x PCA9685 16-Channel PWM Module
 - Hemp rope or other natural fibers
 - screws m2 x 1.9 or the so
