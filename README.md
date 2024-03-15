@@ -26,31 +26,31 @@ TODO - coming soon with a cool picture
 Servos are named from #0 to #15
 
 ### Front servos for the horizzontal movement of the legs
-Front servos number (from front to back legs)
-- Left: 0, 1, 2, 3
-- Right: 4, 5, 6, 7
+Front servos number (from front to back legs): <br>
+- Left: 0, 1, 2, 3 <<br>
+- Right: 4, 5, 6, 7 <br>
 
 ### Back servos for the vertical movement of the legs
-Back servos number
-- Left: 8, 9, 10, 11
-- Right: 12, 13, 14, 15
+Back servos number: <br>
+- Left: 8, 9, 10, 11 <br>
+- Right: 12, 13, 14, 15 <br>
 
 ### Pairing front and back servos
 By pairing the 2 servos (front and back for each leg), the end effector of the leg can move on a surface. The position of end effector of the leg can be controlled with a combination of the position of the 2 servos. 
 
-Left legs servo paring:
-FRONT - BACK
-  0   -  8
-  1   -  9
-  2  -  10
-  3  -  11
+Left legs servo paring: <br>
+FRONT - BACK <br>
+  0   -  8 <br>
+  1   -  9 <br>
+  2  -  10 <br>
+  3  -  11 <br>
 
-Right legs servo paring:
-FRONT - BACK
-//   4  -  12
-//   5  -  13
-//   6  -  14
-//   7  -  15
+Right legs servo paring: <br>
+FRONT - BACK <br>
+//   4  -  12 <br>
+//   5  -  13 <br>
+//   6  -  14 <br>
+//   7  -  15 <br>
 
 
 ## Servo motors control
