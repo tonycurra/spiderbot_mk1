@@ -130,8 +130,8 @@ int servo_7_angle_backward = 120; // Move Backward
 // For the vertical movement of the legs
 
 // Back left motors (8 - 9 - 10 - 11)
-int left_leg_angle_up = 130; // Up
-int left_leg_angle_down = 10; // Down
+int left_leg_angle_up = 170; // Up
+int left_leg_angle_down = 50; // Down
 
 // Back right motors (12 - 13 - 14 - 15)
 int right_leg_angle_up = 50; // Up
