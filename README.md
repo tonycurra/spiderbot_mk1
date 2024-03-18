@@ -1,5 +1,6 @@
 # spiderbot_mk1
-Robotic spider prototype
+Robotic spider prototype <br>
+developed at [storks.ai](https://storks.ai)
 
 ## Videos
 [Youtube Videos](https://www.youtube.com/playlist?list=PLxMGwsEIy4YXqzaWbVHlb3hlWHMuYztLT)
